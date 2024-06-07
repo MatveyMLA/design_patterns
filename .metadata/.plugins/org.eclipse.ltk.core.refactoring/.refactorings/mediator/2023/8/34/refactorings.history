@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;mediator.IComponent.java&apos; to &apos;IClient.java&apos;&#x0D;&#x0A;- Original project: &apos;mediator&apos;&#x0D;&#x0A;- Original element: &apos;mediator.IComponent.java&apos;&#x0D;&#x0A;- Renamed element: &apos;mediator.IClient.java&apos;" description="Rename compilation unit &apos;IComponent.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;mediator{IComponent.java" name="IClient.java" references="false" stamp="1692899429098" version="1.0"/>
-</session>
