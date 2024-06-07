@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;list&apos; in &apos;singleton.Singleton&apos; to &apos;set&apos;&#x0D;&#x0A;- Original project: &apos;singleton&apos;&#x0D;&#x0A;- Original element: &apos;singleton.Singleton.list&apos;&#x0D;&#x0A;- Renamed element: &apos;singleton.Singleton.set&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;list&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;singleton{Singleton.java[Singleton^list" name="set" references="true" setter="false" stamp="1690838186000" textual="false" version="1.0"/>
+</session>

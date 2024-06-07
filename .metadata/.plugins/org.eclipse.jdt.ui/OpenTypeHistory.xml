@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=abstract_factory/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;abstract_factory{AbstractTraditionalLunchFactory.java[AbstractTraditionalLunchFactory" modifiers="513" timestamp="1690226374367"/>
+    <typeInfo handle="=abstract_factory/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;abstract_factory{FirstDish.java[FirstDish" modifiers="513" timestamp="1690218886436"/>
+    <typeInfo handle="=abstract_factory/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;abstract_factory{SecondDish.java[SecondDish" modifiers="513" timestamp="1690218873104"/>
+    <typeInfo handle="=adapter/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;adapter{IService.java[IService" modifiers="513" timestamp="1690923442583"/>
+    <typeInfo handle="=bridge/C:\/Program Files\/Java\/jdk-17.0.7\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.awt.peer(PopupMenuPeer.class[PopupMenuPeer" modifiers="1537" timestamp="1686135609586"/>
+    <typeInfo handle="=decorator/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;decorator{BasePizzaDecorator.java[BasePizzaDecorator" modifiers="1" timestamp="1691566151726"/>
+    <typeInfo handle="=decorator/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;decorator{IPizza.java[IPizza" modifiers="513" timestamp="1691565578879"/>
+    <typeInfo handle="=facade/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;facade{IUser.java[IUser" modifiers="513" timestamp="1691607106319"/>
+    <typeInfo handle="=facade/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;facade{IStorage.java[IStorage" modifiers="513" timestamp="1691607158046"/>
+    <typeInfo handle="=facade/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;facade{IBlai.java[IBlai" modifiers="513" timestamp="1691607068805"/>
+    <typeInfo handle="=facade/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;facade{IDeliver.java[IDeliver" modifiers="513" timestamp="1691609389790"/>
+    <typeInfo handle="=facade/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;facade{IOrder.java[IOrder" modifiers="513" timestamp="1691609389782"/>
+    <typeInfo handle="=facade/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;facade.facades{IFacade.java[IFacade" modifiers="513" timestamp="1691610736259"/>
+    <typeInfo handle="=flyweight/C:\/Program Files\/Java\/jdk-17.0.7\/lib\/jrt-fs.jar`java.compiler=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;javax.lang.model.type(UnionType.class[UnionType" modifiers="1537" timestamp="1686135609586"/>
+    <typeInfo handle="=flyweight/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;flyweight.flyweight{IUnit.java[IUnit" modifiers="513" timestamp="1692103670113"/>
+    <typeInfo handle="=proxy/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;proxy.client{IItemClient.java[IItemClient" modifiers="513" timestamp="1692281036888"/>
+    <typeInfo handle="=proxy/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;proxy.server{IServer.java[IServer" modifiers="513" timestamp="1692279811241"/>
+    <typeInfo handle="=chain_of_responsibility/C:\/Program Files\/Java\/jdk-17.0.7\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;javax.swing(Icon.class[Icon" modifiers="1537" timestamp="1686135609586"/>
+    <typeInfo handle="=chain_of_responsibility/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;chain_of_responsibility{IHelpService.java[IHelpService" modifiers="513" timestamp="1692354306691"/>
+    <typeInfo handle="=chain_of_responsibility/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;chain_of_responsibility{BaseHelpElement.java[BaseHelpElement" modifiers="1025" timestamp="1692434480682"/>
+    <typeInfo handle="=command/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;command.interfaces{ICommand.java[ICommand" modifiers="513" timestamp="1692451262133"/>
+    <typeInfo handle="=mediator/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;mediator{IService.java[IService" modifiers="513" timestamp="1692901976206"/>
+    <typeInfo handle="=mediator/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;mediator{IClient.java[IClient" modifiers="513" timestamp="1692902694287"/>
+    <typeInfo handle="=memento/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;memento{IRedactor.java[IRedactor" modifiers="513" timestamp="1692989355943"/>
+    <typeInfo handle="=observer/C:\/Program Files\/Java\/jdk-17.0.7\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;java.awt.image(ImageProducer.class[ImageProducer" modifiers="1537" timestamp="1686135609586"/>
+    <typeInfo handle="=observer/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;observer{PublicService.java[PublicService" modifiers="1025" timestamp="1713991224817"/>
+    <typeInfo handle="=state/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;state{IOwen.java[IOwen" modifiers="513" timestamp="1693125941858"/>
+    <typeInfo handle="=state/C:\/Program Files\/Java\/jdk-17.0.7\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;java.awt.image(ImageObserver.class[ImageObserver" modifiers="1537" timestamp="1686135609586"/>
+    <typeInfo handle="=state/C:\/Program Files\/Java\/jdk-17.0.7\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;javax.imageio.stream(ImageOutputStream.class[ImageOutputStream" modifiers="1537" timestamp="1686135609586"/>
+    <typeInfo handle="=state/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;state{IOwenState.java[IOwenState" modifiers="513" timestamp="1693075422487"/>
+    <typeInfo handle="=strategy/C:\/Program Files\/Java\/jdk-17.0.7\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;java.util.stream(IntStream.class[IntStream" modifiers="1537" timestamp="1686135609586"/>
+    <typeInfo handle="=strategy/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;strategy{IStrategy.java[IStrategy" modifiers="513" timestamp="1693170195632"/>
+    <typeInfo handle="=tamplate_method/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;tamplate_method{WriteFile.java[WriteFile" modifiers="1025" timestamp="1693264851728"/>
+</typeInfoHistroy>

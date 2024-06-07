@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class HomeWork_4 {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+
+		int sum = 0, num1, num2;
+		// M in exersise is num1 in programm
+		num1 = s.nextInt();
+		num2 = s.nextInt();
+		int[] nums = new int[num2];
+
+		for (int i = 0; i < num2; i++) {
+
+			nums[i] = s.nextInt();
+
+		}
+
+		//printing maarach 
+		for (int i = 0; i < num2; i++) {
+
+			System.out.println(nums[i]);
+
+		}
+		
+		for (int i = 0; i < num2; i++) {
+
+			sum = nums[i] + nums[i+1];
+			if(sum > num1) {
+				System.out.println("M is less then Sum " + "M = " + num1 + " SUM = " + sum);
+			}
+		}
+
+	}
+
+}

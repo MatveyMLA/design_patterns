@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+public class Targil1 {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int left;
+		int right;	
+		
+		System.out.println(" Nina pleas enter left number t:");
+		left = scanner.nextInt();
+		
+	    System.out.println("Nina please enter right number:");
+		right = scanner.nextInt();
+		
+		int max = getMaxSumOfNumbersBetween(left, right);
+		
+		System.out.println(max);
+	}
+
+	private static int getMaxSumOfNumbersBetween(int left, int right) {
+		// left = 951 % 10  -> right = 1050
+		int max = 0;
+		int sum = 0;
+		for(int i = left + 1; i < right; i++) {
+			int num = i;
+			
+			while(num > 0) {
+				sum = sum + (num % 10);
+				num = num/10;
+			}
+			
+			if (sum > max) {
+				max = i;
+			}
+			
+			sum = 0;
+		}
+		
+		return max;		
+	}
+}

@@ -1,0 +1,86 @@
+import java.util.Scanner;
+
+public class Targil2 {
+	
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int num;
+		int digit;
+		int evenCounter = 0;
+		int oddCounter = 0;
+		num = s.nextInt();
+		
+		while(num>0){
+			
+			digit = num % 10;
+			
+			if (digit % 2 > 0) {
+				oddCounter++;	
+			}
+			else {
+				evenCounter++;
+				
+			}	
+			num = num /10;
+		}
+		
+		if (evenCounter > oddCounter) {
+			System.out.println("More");
+		}
+		else if (evenCounter< oddCounter) {
+			System.out.println("Less");
+		}
+		else {
+			System.out.println("Equal");
+		}
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//	public static void main(String[] args) {
+//		Scanner scanner = new Scanner(System.in);
+//		int num = scanner.nextInt();
+////		1068
+//		int zugiCounter = 0;
+//		int iZugiCounter = 0;
+//		
+////		while();
+//		
+//		int digit = num%10;
+//		
+//		if(digit % 2 > 0) {
+//			
+//			iZugiCounter++;
+//		}else {
+//			
+//			zugiCounter++;
+//		}
+//		
+//
+//	}
+
+}

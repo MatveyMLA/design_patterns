@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>design_patterns</name>
+	<comment></comment>
+	<projects>
+		<project>abstract_factory</project>
+		<project>adapter</project>
+		<project>bridge</project>
+		<project>builder</project>
+		<project>chain_of_responsibility</project>
+		<project>command</project>
+		<project>composite</project>
+		<project>decorator</project>
+		<project>facade</project>
+		<project>factory_method</project>
+		<project>flyweight</project>
+		<project>iterator_pattern</project>
+		<project>mediator</project>
+		<project>memento</project>
+		<project>observer</project>
+		<project>prototype</project>
+		<project>proxy</project>
+		<project>singleton</project>
+		<project>state</project>
+		<project>strategy</project>
+		<project>tamplate_method</project>
+		<project>visitor</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>

@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class HomeWork_4 {
+
+	public static void main(String[] args) {
+
+	System.out.printf("Nina salary %d", 20000);
+
+	}
+}

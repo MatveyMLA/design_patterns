@@ -1,0 +1,10 @@
+1692560930652	Delete element
+1692562123188	Rename type 'BookAuthorCollection'
+1692562402773	Rename type 'Itarable'
+1692602923074	Extract method 'IteratorFabricMethod'
+1692605498669	Delete element
+1692607133800	Delete element
+1692607450998	Delete element
+1692607711003	Rename compilation unit 'BooksCollection.java'
+1692609074548	Move package
+1692609129064	Move compilation units

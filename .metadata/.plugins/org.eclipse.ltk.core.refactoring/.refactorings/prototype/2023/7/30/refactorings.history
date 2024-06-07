@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;prototype.Auto&apos; to &apos;AutoPrototype&apos;&#x0D;&#x0A;- Original project: &apos;prototype&apos;&#x0D;&#x0A;- Original element: &apos;prototype.Auto&apos;&#x0D;&#x0A;- Renamed element: &apos;prototype.AutoPrototype&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Auto&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;prototype{Auto.java[Auto" matchStrategy="1" name="AutoPrototype" qualified="false" references="true" similarDeclarations="false" stamp="1690297515362" textual="false" version="1.0"/>
+</session>

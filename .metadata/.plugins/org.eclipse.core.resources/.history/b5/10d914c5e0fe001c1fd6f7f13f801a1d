@@ -1,0 +1,60 @@
+import java.util.Scanner;
+
+public class HomeWork_1 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+
+		final int TOTOSIZE = 15;
+		
+		int counter = 0;
+		int i = 0;
+		
+		char score = 0;
+		
+		for (i = 1; i <= TOTOSIZE; i++) {
+//			System.out.println("Nina, input symbol please");
+			score = input.next().charAt(0);
+//			System.out.println("Nina, THANK YOU!!!");
+			
+			if (score == 'x') {
+//				System.out.println("score = " + score);
+				counter++;
+			}
+		}
+		
+		System.out.println("x=" + d);
+	}
+}
+
+
+
+
+
+
+
+
+//
+//public class q1 {
+//    public static void main(String[] args) {
+//       Scanner in=new Scanner(System.in);
+//       final int TOTOSIZE =15 ;
+//        int d = 0, i; 
+//        char score=0; 
+//        for (i=1; i<=TOTOSIZE; i++){      
+//      score=in.next().charAt(0);     
+//      if (score == 'x')      
+//	    d++; 
+//}   
+//System.out.println("x="+d);
+//} 
+//}  
+
+
+
+
+
+
+
+

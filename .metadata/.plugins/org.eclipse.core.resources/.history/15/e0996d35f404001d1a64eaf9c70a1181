@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Targil2 {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int num = scanner.nextInt();
+		1068
+		int zugiCounter = 0;
+		int iZugiCounter = 0;
+		
+		while();
+		
+		int digit = num%10;
+		
+		if(digit % 2 > 0) {
+			
+			iZugiCounter++;
+		}else {
+			
+			zugiCounter++;
+		}
+		
+
+	}
+
+}
